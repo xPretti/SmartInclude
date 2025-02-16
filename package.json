@@ -4,6 +4,7 @@
   "description": "Insira caminhos relativos rapidamente no VS Code",
   "version": "0.0.1",
   "publisher": "xPretti",
+  "repository": "https://github.com/xPretti/smartinclude",
   "engines": {
     "vscode": "^1.97.0"
   },
