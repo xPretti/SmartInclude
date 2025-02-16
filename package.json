@@ -1,7 +1,7 @@
 {
   "name": "smartinclude",
   "displayName": "SmartInclude",
-  "description": "Insira caminhos relativos rapidamente no VS Code",
+  "description": "Facilitates the inclusion process, making it faster and more efficient.",
   "version": "0.0.1",
   "publisher": "xPretti",
   "repository": "https://github.com/xPretti/smartinclude",
